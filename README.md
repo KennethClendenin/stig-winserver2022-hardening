@@ -1,4 +1,4 @@
-# [Windows Server 2022 STIG PowerShell Hardening Scripts](https://github.com/KennethClendenin/stig-windows11-hardening/tree/main/scripts)
+# [Windows Server 2022 STIG PowerShell Hardening Scripts](https://github.com/KennethClendenin/stig-winserver2022-hardening/tree/main/scripts)
 
 This repository contains PowerShell scripts developed to implement specific Windows Server 2022 security controls, based on guidance from [STIGAVIEW](https://stigaview.com/), which references DISA STIGs (Security Technical Implementation Guides - V2R4).
 
