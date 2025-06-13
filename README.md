@@ -1,0 +1,1 @@
+# stig-winserver2022-hardening
